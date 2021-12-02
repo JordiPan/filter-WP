@@ -1,0 +1,15 @@
+.product {
+    text-decoration: none;
+}
+
+.product:hover {    
+    text-decoration-line: none !important;
+    text-decoration: none !important;
+    color: initial;
+}
+.product-link:hover {
+    text-decoration-line: none !important;
+    text-decoration: none !important;
+    color: initial;
+    outline: 0 !important;
+}
